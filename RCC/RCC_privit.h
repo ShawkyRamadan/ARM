@@ -33,7 +33,7 @@
 
 /***************************PRESCALER************************************/
 
-#define SYSCLK_DIV2   0b0000
+#define SYSCLK_DIV2   0b1000
 #define SYSCLK_DIV4   0b1001
 #define SYSCLK_DIV8   0b1010
 #define SYSCLK_DIV16  0b1011
